@@ -3,4 +3,4 @@ bienvenue sur mon portfolio GitHub, ce repository regroupe mes projets en videos
 Domaines de competence : *securité informatique /Reseaux / bases de données / Developpement Web
 Langage & outils outils utilisés : ( visual studio, sublime Text, HTML, CSS, PHP? Javascript, Laravel)
 Projets inclus :
-Contact : Mwangalabdoul@gmail.com / Abdoul mwangal
+Contact : Mwangalabdoul@gmail.com / Sissokomwangal@gmail.com/ Facebook : Abdoul mwangal
